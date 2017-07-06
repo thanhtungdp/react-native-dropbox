@@ -7,6 +7,8 @@ A example react native dropbox
 * Dashboard
 * Upload file
 
+Open with expo: [thanhtungdp/dropbox](https://expo.host/@thanhtungdp/dropbox)
+
 # Demo
 
 ![alt text](http://sv1.upsieutoc.com/2017/07/06/ScreenShot2017-07-06at22.16.13.png "Logo Title Text 1")
