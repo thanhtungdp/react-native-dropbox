@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "yourproject",
-    "description": "An empty new project",
-    "slug": "yourproject",
+    "name": "dropbox",
+    "description": "dropbox example",
+    "slug": "dropbox",
     "privacy": "public",
     "sdkVersion": "18.0.0",
     "version": "1.0.0",
